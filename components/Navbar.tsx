@@ -120,7 +120,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center gap-4 md:gap-6">
             <div className="flex-shrink-0 w-14 h-14 md:w-20 md:h-20 bg-white border border-gray-100 flex items-center justify-center shadow-sm p-1 rounded-full overflow-hidden">
               <div className="w-full h-full border-primary border-4  rounded-full flex items-center justify-center font-black text-white text-[8px] md:text-[11px] text-center leading-none">
-                <img src="/logo (2).png" alt="" />
+                <img src="/logo.png" alt="" />
               </div>
             </div>
 
