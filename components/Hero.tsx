@@ -11,7 +11,10 @@ const Hero: React.FC = () => {
         playsInline
         className="absolute top-0 left-0 w-full h-full object-cover filter brightness-[0.4]"
       >
-        <source src="/hero.mp4" type="video/mp4" />
+        <source
+          src="https://res.cloudinary.com/sudhanshu123/video/upload/v1769022106/hero_axfir8.mp4"
+          type="video/mp4"
+        />
       </video>
 
       {/* Hero Text Content */}
