@@ -1,0 +1,7 @@
+{
+  "name": "GTB4CEC College Website",
+  "description": "A high-performance, visually stunning official website for Guru Tegh Bahadur 4th Centenary Engineering College featuring smooth animations and modern design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
